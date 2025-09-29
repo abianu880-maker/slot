@@ -24,14 +24,13 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''
+```
 <html>
-<head>
-<title>Slot Timetable</title>
+    <head>
+       <title>Slot Timetable</title>
 </head>
-<body>
-<center>
-<img src="/static/logo.png" height="100" width="540"
+<body align="center">
+    <img src="/static/logo.png" height="100" width="540"
 </center>
 <br>
 <table align="center" width="540" cellpadding="4" border="5" bgcolor="pink">
@@ -111,7 +110,7 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-'''
+``` 
 
 ## OUTPUT
 ![alt text](<Screenshot (25).png>)
